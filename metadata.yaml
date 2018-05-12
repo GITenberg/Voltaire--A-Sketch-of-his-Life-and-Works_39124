@@ -7,7 +7,7 @@ creator:
   authors:
   - agent_name: Foote, G. W. (George William)
     alias: Foote, George William
-    birthdate: &id001 1850
+    birthdate: 1850
     deathdate: 1915
     gutenberg_agent_id: '2333'
     url: http://www.gutenberg.org/2009/agents/2333
@@ -16,11 +16,13 @@ creator:
     aliases:
     - Wheeler, Joseph Mazzini
     - Wheeler, Joseph M.
-    birthdate: *id001
+    birthdate: 1850
     deathdate: 1898
     gutenberg_agent_id: '39852'
     url: http://www.gutenberg.org/2009/agents/39852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39124#Voltaire--A-Sketch-of-his-Life-and-Works
 gutenberg_issued: '2012-03-10'
 gutenberg_type: Text
 identifiers:
