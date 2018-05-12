@@ -1,0 +1,37 @@
+_repo: Voltaire--A-Sketch-of-his-Life-and-Works_39124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: &id001 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+  - agent_name: Wheeler, J. M. (Joseph Mazzini)
+    aliases:
+    - Wheeler, Joseph Mazzini
+    - Wheeler, Joseph M.
+    birthdate: *id001
+    deathdate: 1898
+    gutenberg_agent_id: '39852'
+    url: http://www.gutenberg.org/2009/agents/39852
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freethinkers -- Biography'
+- !lcsh 'Voltaire, 1694-1778'
+- !lcc 'BL'
+title: 'Voltaire: A Sketch of His Life and Works'
+url: http://www.gutenberg.org/ebooks/39124
